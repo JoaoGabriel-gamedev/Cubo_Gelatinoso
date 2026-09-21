@@ -1,5 +1,7 @@
 # Cubo_Gelatinoso
 Repositório destinado a atividade do Cubo_Gelatinoso.
+Autor: João Gabriel Coutinho Oliveira
+Ilum - Escola de Ciências
 
 <p>Este projeto tem como objetivo explorar a aplicação do algoritmo K-Nearest Neighbors (KNN) em um problema de classificação relacionado à ocorrência de Acidente Vascular Cerebral (AVC). Para isso, foi utilizado o Stroke Prediction Dataset, que reúne informações demográficas e de saúde, como idade, IMC, nível médio de glicose, hipertensão e doenças cardíacas.
 
